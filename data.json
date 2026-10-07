@@ -1,0 +1,80 @@
+{
+  "notice": {
+    "enabled": true,
+    "text": "Welcome to മോല്യേർ AI! All AIs here are for sarcastic purposes only, what they will impersonate some of your 'favourite' മോല്യേർ. Don't take them seriously. More models dropping soon 👀"
+  },
+  "ais": [
+    {
+      "id": "lab_manthravadi",
+      "name": "മന്ത്രവാദി",
+      "avatar_text": "MS",
+      "description": "Bro thinks he is the best lab admin and biggest techie but what he makes are just oombiya setup",
+      "launch_date": "7-10-2026",
+      "launched": true,
+      "color": "#7c5cff",
+      "dialogues": [
+        "Enthaa monee anakk AI edukkano",
+        "Makkalee lab poottaan poovaan tto",
+        "250 urppya fine tto",
+        "Aarum kalchirikkanda net ippo off aavum tto",
+        "CHS 30 irikkunna aal vegam niics staffkk varee",
+        "aa 15 aamathe systethil irikkunna kutti account suspend aayeen tto",
+        "aa vem potte vem potte period und"
+      ]
+    },
+        {
+      "id": "valyusthad",
+      "name": "വല്യസ്താദ്",
+      "avatar_text": "AB",
+      "description": "That very big, bigger and biggest usthaad",
+      "launch_date": "7-10-2026",
+      "launched": true,
+      "color": "#7c5cff",
+      "dialogues": [
+        "Thaaavanoo alal birri vathaqwa valaa thaavanoo alal ithmi wal udwan",
+        "onnu randu kaaryangal oormappeduthaanaan ezhunnettu ninnath",
+        "SMSilekk pooya ellarudeyum list kittiyittund",
+        "Class Cleaning cheythittundo class leader?",
+        "Naattilekk pokumbol ividenn cheythirunna kaaryangal marakkaathe cheyyuka",
+        "kore aalukalude mudiyokke valuthaayittund naattil ninn varumbol ividathe styleil vettuka, nammal patte kuttiyaakki vettaanonnum parayaarillallo appo ath marakkathe cheyyuka",
+        "inn ethraa aalukal raavile eneettitt bismika rabbi cholliyittund onn kayy pokkoo"
+      ]
+    },
+            {
+      "id": "thaalipp",
+      "name": "താളിപ്പ് ",
+      "avatar_text": "SA",
+      "description": "താളിപ്പ് ",
+      "launch_date": "7-10-2026",
+      "launched": false,
+      "color": "#7c5cff",
+      "dialogues": [
+        "Thaaavanoo alal birri vathaqwa valaa thaavanoo alal ithmi wal udwan",
+        "onnu randu kaaryangal oormappeduthaanaan ezhunnettu ninnath",
+        "SMSilekk pooya ellarudeyum list kittiyittund",
+        "Class Cleaning cheythittundo class leader?",
+        "Naattilekk pokumbol ividenn cheythirunna kaaryangal marakkaathe cheyyuka",
+        "kore aalukalude mudiyokke valuthaayittund naattil ninn varumbol ividathe styleil vettuka, nammal patte kuttiyaakki vettaanonnum parayaarillallo appo ath marakkathe cheyyuka",
+        "inn ethraa aalukal raavile eneettitt bismika rabbi cholliyittund onn kayy pokkoo"
+      ]
+    },
+                {
+      "id": "chappathi",
+      "name": "ചപ്പാത്തി",
+      "avatar_text": "AF",
+      "description": "ചപ്പാത്തി",
+      "launch_date": "7-10-2026",
+      "launched": false,
+      "color": "#7c5cff",
+      "dialogues": [
+        "Thaaavanoo alal birri vathaqwa valaa thaavanoo alal ithmi wal udwan",
+        "onnu randu kaaryangal oormappeduthaanaan ezhunnettu ninnath",
+        "SMSilekk pooya ellarudeyum list kittiyittund",
+        "Class Cleaning cheythittundo class leader?",
+        "Naattilekk pokumbol ividenn cheythirunna kaaryangal marakkaathe cheyyuka",
+        "kore aalukalude mudiyokke valuthaayittund naattil ninn varumbol ividathe styleil vettuka, nammal patte kuttiyaakki vettaanonnum parayaarillallo appo ath marakkathe cheyyuka",
+        "inn ethraa aalukal raavile eneettitt bismika rabbi cholliyittund onn kayy pokkoo"
+      ]
+    }
+  ]
+}
